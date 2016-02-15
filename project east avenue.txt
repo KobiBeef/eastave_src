@@ -1,0 +1,108 @@
+PROJECT DENZO
+an eletronic medical record (EMS) for the medical ward of east avenue medical center
+
+DENZO v1
+FOR THE PURPOSE OF LATEST VERSION:
+LANGUAGE: PYTHON 3.4
+WEBFRAME WORK: DJANGO 1.8
+DATABASE: SQLITE3 (for testing and initialization)
+DATABASE: POSTGRES (for pilot study and security)
+
+DENZO v1.a
+FOR THE PURSOSE OF STABILITY
+LANGUAGE: PYTHON 2.7
+WEBFRAME WORK: DJANGO 1.8
+DATABASE: SQLITE3 (for testing and initialization)
+DATABSE: POSTGRES (for pilot study and security)
+
+PHASE 1: Creating the form
+got sample form from denz
+
+ADMITION FORM:
+    -HOSPITAL NO.
+    -PATIENT NAME:
+        -LAST NAME
+        -FIRST NAME
+        -MIDDLE NAME
+    -ATTENDING PHYSICIAN:
+        -LAST NAME
+        -FIRST NAME
+        -MIDILE INITIAL
+    -SERVICE:
+    -AGE:
+    -SEX:
+    -STATUS:
+    -NATIONALITY:
+    -RELIGION:
+    -HOME ADDRESS:
+    -OFFICE ADDRESS:
+    -OCCUPATION:
+    -EMPLOYER:
+    -MEMBERSHIP:
+---------------------------------------------------
+PARENTS:
+    -FATHER:
+        -LAST NAME
+        -FIRST NAME
+    -MOTHER:
+        -LAST NAME
+        -FIRST NAME
+SPOUSE:
+    -LAST NAME
+    -FIRST NAME
+    -MIDDLE NAME
+--------------------------------------------------
+PARTY TO PAY BILLS: (CHECKBOXES)
+    -selfpay
+    -pdaf/party list
+    -PHIC
+ADMITTING DIAGNOSIS:
+    -DIAGNOSIS
+--------------------------------------------------
+ADMISSION:
+-DATE:mm/dd/yyyy
+-TIME:hh:mm (am/pm)
+-WARD:
+-ROOM & BED NO.:
+-ENCODED BY:
+    -LAST NAME
+    -FIRST NAME
+  	-MIDDLE INITIAL
+-CLASSIFICATION: (CHECKBOXES)
+  	-PAY
+  	-CHARITY
+- INFORMANT:
+  	-INFORMANT NAME:
+    	-FIRST NAME
+    	-LAST NAME
+  	-RELATIONSHIP:
+--------------------------------------------------
+-DISCHARGE DATE: mm/dd/yyyy
+-DISCHARGE TIME: hh:mm (am/pm)
+-BY:
+--------------------------------------------------
+ADMITTING DIAGNOSIS:
+	-INIT DIAGNOSIS
+FINAL DIAGNOSIS:
+	-FINAL DIAGNOSIS
+IMPLICATION/S:
+	-IMPLICATIONS
+CODE NUMBER:
+	-NUMBER
+--------------------------------------------------
+RESULTS: (CHECKBOXES)
+	-REVOCERED
+	-IMPROVED
+	-UNIMPROVED
+	-DIED
+DISPOSITION: (CHECKBOXES)
+    -DISCHARGE
+    -TRANSFERED
+    -ABSCONDED
+    -DIED
+    -AUTOPSIED
+--------------------------------------------------
+RESIDENTS/S IN CHARGE
+ATTENDING PHYSICIAN
+
+EXCEL HEADERS:
