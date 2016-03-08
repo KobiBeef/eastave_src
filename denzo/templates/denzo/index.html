@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-{% load staticfiles %}
-<html>
-
-    <head>
-        <title>review</title>
-    </head>
-
-    <body>
-        <h1>denzo says...</h1>
-        hello world! <strong>{{ boldmessage }}</strong><br />
-        <a href="/denzo/about/">About</a><br />
-        <img src="{% static "images/darlene-boobs.jpg" %}" alt="Picture of Rango" />
-    </body>
-
-</html>
+{% extends 'denzo/__hmf_layout.html' %}
+{% block header %}
+	{% include "denzo/_header_index_content.html" %}
+{% endblock %}
+{% block main %}
+    {% include "denzo/_main_index_content.html" %}
+{% endblock %}
+{% block footer %}{% endblock %}

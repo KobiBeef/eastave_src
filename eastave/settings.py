@@ -44,8 +44,24 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'compressor',
     'denzo'
 )
+
+# for django-compressor
+COMPRESS_PRECOMPILERS = (
+    ('text/less', 'lessc {infile} {outfile}'),
+)
+
+# for django-compressor
+STATICFILES_FINDERS = (
+    # important for finding staticfiles
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    # for compress css to work
+    'compressor.finders.CompressorFinder',
+)
+
 
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -113,6 +129,9 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
+# for django-compressor CACHE file
+COMPRESS_ROOT = os.path.join(BASE_DIR, 'static')
+
 STATIC_URL = "/static/"
 
 # FROM MEZZANINE STATIC ROOT
@@ -123,3 +142,5 @@ print ('STATIC_ROOT: ',STATIC_ROOT)
 STATICFILES_DIR = (
     STATIC_ROOT,
 )
+
+print ('STATIC_DIR:', STATICFILES_DIR)

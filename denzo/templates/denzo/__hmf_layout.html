@@ -1,0 +1,13 @@
+{% extends 'denzo/__base.html' %}
+{% load staticfiles %}
+{% block content %}
+    {% block header %}{% endblock %}
+    <div class="container">
+        {% block main %}{% endblock %}
+    </div>
+    <footer>
+        <div class="container">
+            {% block footer %}{% endblock %}
+        </div>
+    </footer>
+{% endblock %}

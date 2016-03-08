@@ -1,0 +1,102 @@
+{% load staticfiles %}
+<div class="row">
+    <div class="col-md-8">
+        <div class="panel panel-default custom-outer-panel-shadow-box">
+            <div class="panel-heading" style="background-image: url({% static 'images/gplay.png' %});">
+                <h4>Patient List</h4>
+            </div>
+            <div class="panel-body">
+                <div class="well well-sm custom-inner-panel-margin">
+                    <h5>Patient Info:</h5>
+                </div>
+                <table class="table">
+                    <tr align="right">
+                        <th>Date of Admission:</th>
+                        <th>Patient Number:</th>
+                        <th>Name:</th>
+                        <th>Category:</th>
+                    </tr>
+                    {% for object in patient_list reversed %}
+                        <tr>
+                            <td>{{ object.date_of_admission }}</td>
+                            <td>{{ object.hospital_number }}</td>
+                            <td>{{ object.name }}</td>
+                            <td>{{ object.category }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default custom-outer-panel-shadow-box">
+            <div class="panel-heading" style="background-image: url({% static 'images/gplay.png' %});">
+                <h4>Summary</h4>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        Number of Patients: <span class="badge">
+                        {% with total=patient_list.count%}
+                            {{ total }}
+                        {% endwith %}</span>
+                    </li>
+                    <li class="list-group-item">
+                        Number of Cardiology Patients: <span class="badge">
+                        {% with total=cardio_pt.count %}
+                            {{ total }}
+                        {% endwith %}</span>
+                    </li>
+                    <li class="list-group-item">
+                        Number of Endocrinology Patients: <span class="badge">
+                        {% with total=endo_pt.count %}
+                            {{ total }}
+                        {% endwith %}</span>
+                    </li>
+                    <li class="list-group-item">
+                        Number of Gastroenterology Patients: <span class="badge">
+                        {% with total=gastro_pt.count %}
+                            {{ total }}
+                        {% endwith %}</span>
+                    </li>
+                    <li class="list-group-item">
+                        Number of Nephrology Patients: <span class="badge">
+                        {% with total=nephro_pt.count %}
+                            {{ total }}
+                        {% endwith %}</span>
+                    </li>
+                    <li class="list-group-item">
+                        Number of Neurology Patients: <span class="badge">
+                        {% with total=neuro_pt.count %}
+                            {{ total }}
+                        {% endwith %}</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- <h1>denzo says...</h1>
+hello world!
+{% with total=patient_list %}
+    <h5>total number of patients: {{ total.count }}</h5>
+{% endwith %}
+
+{% with var=cardio_count %}
+    {% for object in patient_list %}
+        {% if object.category == "Cardiology" %}
+            <h5>patient: {{ object.name }}</h1>
+        {% endif %}
+    {% endfor %}
+    <h5>cardio_count = {{ var.count }}</h5>
+{% endwith %} -->
+
+<!-- {% with test_var=patient_list %}
+    <h5>total number of patients in Cardiology: {{ test_var.count }}</h5>
+    {% for object in test_var %}
+        {% if object.category = "Cardiology"%}
+            <h5>total number of patients in Cardiology:</h5>
+        {% endif %}
+    {% endfor %}
+{% endwith %} -->
