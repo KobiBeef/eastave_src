@@ -1,0 +1,389 @@
+(HQ)keio plaza hotel:
+nearby train stations:
+1. tocho mae station
+location:
+- north of keio plaza hotel
+
+2. shinjuku station (BIG station)
+location:
+- east of keio plaza hotel
+
+3. shinsen shinjuku station
+location:
+- south of keio plaza hotel
+
+####################################################################################################
+SHINJUKU AREA:
+KABUKICHO (red light area/distrit):
+ACTIVITY:EATING
+BEST TIME TO VISIT: Evening/PM
+NOTE: BRING (A LOT OF) CASH
+PLACE TO VISIT:
+- Golden Gai
+- HOURS: 19:00(7:00PM)-20:00(10:00PM)
+- DIRECTION:
+1. Walk: 1.3km, TIME:16mins
+
+- Omoide Yokocho
+- HOURS: 15:00(5:00PM)-24:00(12:00MN)
+- Tsukijishijo Station:
+1. Walk: 800m, TIME:10mins
+
+####################################################################################################
+Shinjuku Gyoen National Garden:
+ACTIVITY: SIGHT SEEING (CHERRY BLOSSOM)/RELAXING
+HOURS: 09:00(9:00AM) - 16:30(4:30PM)
+FEES: 200YEN/1.76USD/82.71 PHP
+
+DIRECTIONS
+1. WALK (1.2KM), TIME: 22MINS
+2. TRAIN (GOOGLE MAPS)
+- walk to: "SHINSEN-SHINJUKU STATION", 650m, TIME:9mins
+- take the: "shinjuku line", "light green", towards: "Moto-Yawata"
+- get off: "Shinjukusanchome Station", 1 stop, TIME:1min
+- walk to: "Shinkuju Gyoen National", 700m, TIME:8mins
+- TRAIN FEE: 180YEN/1.59USD/74.72PHP
+
+FROM: Shinjuku Gyoen TO: Keio
+- walk to: "Shinjukusanchome Station", 700m, TIME:9mins
+- take the: "shinjuku line", "light green", towards: "Hashimoto"
+- get off: "SHINSEN-SHINJUKU STATION", 1 stop, TIME:1min
+- walk to: "Keio Plaza Hotel", 650m, TIME:8mins
+- TRAIN FEE: 180YEN/1.59USD/74.72PHP
+
+####################################################################################################
+OTHER NEAR BY AREAS (SHINJUKU):
+Meiji Shrine Gyoen(3 areas/attractions)
+ACTIVITY: SIGHT SEEING/RELAXING/WALKING
+1. Meiji Shrine
+- HOURS: SUNRISE TO SUNSET
+- FEE: NONE
+2. Treasure House
+- HOURS: 09:00(9:00AM)-16:00(4:00PM)
+- FEE: 500yen/4.40USD/206.78PHP
+3. Inner Garden:
+- HOURS: 09:00(9:00AM)-16:30(4:30PM)
+- FEE: 500yen/4.40USD/206.78PHP
+
+DIRECTIONS
+1. TRAIN (GOOGLE MAPS)
+FROM: keio plaza hotel
+- walk to: "Shinjuku Station", 750m, TIME:10mins
+- take the: "JR Yamanote Line","green", towards: "Shibuya", at: "platfrom 14"
+- get off: "Harajuku Station", 2 stops, TIME:4mins
+- walk to: "Meiji Shrine Gyoen", 650m, TIME:7mins
+- TRAIN FEE: 140YEN/1.23USD/57.80PHP
+
+FROM: Shinjuku Gyoen National Garden
+- walk to: Shinjukusanchome Station", 700m, TIME: 9mins,
+- take the: "Fukutoshin line", "brown", towards: "Motomachi-Chukagai"
+- get off: "Meijijingu-Mae Station", 2 stops, TIME:4mins
+- walk to: "Meiji Shrine Gyoen", 900m, TIME:11mins
+- TRAIN FEE: 170YEN/1.50USD/70.49PHP
+
+FROM: Meiji Shrine Gyoen To: Keio
+- walk to: "Harajuku Station", 650m, TIME:8mins
+- take the: "JR Yamanote Line","green", towards: "Shinjuku/Ikebukuro(Clockwise)", at: "platfrom 2"
+- get off: "Shinjuku Station", 2 stops, TIME:4mins
+- walk to: "Meiji Shrine Gyoen", 700m, TIME:8mins
+- TRAIN FEE: 140YEN/1.23USD/57.80PHP
+
+####################################################################################################
+SHIBUYA AREA:
+ACTIVITY: SHOPPING/EATING
+HOURS: 10:00AM(SHOPPING TIME), 11:00AM(RESTAURANT TIME)
+
+DIRECTIONS:
+1. TRAIN (GOOGLE MAPS)
+FROM: keio plaza hotel
+- walk to: "Shinjuku Station", 750m, TIME:10mins
+- take the: "JR Yamanote Line","green", towards: "Shibuya", at: "platfrom 14"
+- get off: "Shibuya Station", 3 stops, TIME:7mins
+- walk to : "Shibuya Crossing", 230m, TIME:2mins
+- TRAIN FEE: 160YEN/1.41USD/66.26PHP
+
+FROM: Meiji Shrine Gyoen
+- walk to: "Harajuku Station", 650m, TIME:8mins
+- take the: "JR Yamanote Line","green", towards: "Shibuya", at: "platform 1"
+- get off: "Shibuya Station", nont-stop, TIME:2mins
+- walk to: "Shibuya Crossing", 230m, TIME:2mins
+- TRAIN FEE: 140YEN/1.23USD/57.80PHP
+
+FROM: Shibuya crossing TO: Keio
+- walk to: "Shibuya Station", 230m, TIME:3mins
+- take the: "JR Yamanote Line","green", towards: "Shinjuku/Ikebukuro(Clockwise)", at: "platfrom 1"
+- get off: "Shinjuku Station", 3 stops, TIME:7mins
+- walk to : "Keio Plaza Hotel", 700m, TIME:8mins
+- TRAIN FEE: 160YEN/1.41USD/66.26PHP
+
+####################################################################################################
+TOKYO TOWER AREA: (2 areas/attrations)
+ACTIVITY: SIGHT SEEING (OBSERVATION VIEWS)/EATING
+Tokyo tower observation deck
+HOURS: 09:00 - 23:00(11:00PM)
+FEES:
+ - main observation deck only: 900yen/7.93USD/372.67PHP
+ - both observation decks: 1600YEN/14.09USD/662.17PHP
+
+One Piece Tower theme park
+ACTIVITY: Theme park activities
+HOURS: 10:00 - 22:00(10:00PM)
+FEES: 3200YEN/28.19USD/1324.80PHP
+
+DIRECTIONS:
+1. TRAIN (GOOGLE MAPS)
+FROM: keio plaza hotel
+- walk to: "Tocho-Mae Station", 350m, TIME:5mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Roppingi/Daimon", at: "platform 1"
+- get off: "Akabanebashi Station", 7 stops, TIME:15mins
+- walk to: "Tokyo Tower", 650m, TIME:10mins
+- TRAIN FEE: 220YEN/1.94USD/91.17PHP
+
+FROM: Shibuya Crossing
+- walk to: "Shibuya Station"
+- take the: "Hanzomon line", "purple", towards: "Oshiage", at: "platform 2"
+- get off: "Aoyamaicchome Station", 2 stops, TIME:4mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Roppingi/Daimon", at: "platform 1"
+- get off: "Akabanebashi Station", 3 stops, TIME:6mins
+- walk to: "Tokyo Tower", 650m, 10mins
+- TRAIN FEE: 280YEN/2.47USD/116.08PHP
+
+FROM: Tokyo Tower TO: Keio Plaza Hotel
+- walk to: "Akabanebashi Station", 650m, TIME:11mins
+- take the: "Oedo Line", "red violet", towards: "Hikarigaoka", at: "platform 2"
+- get off: "Tocho-Mae Station", 7 stops, TIME:15mins
+- walk to: "Keio Plaza Hotel", 350m, TIME:4mins
+- TRAIN FEE: 220YEN/1.94USD/91.17PHP
+
+####################################################################################################
+ODAIBA AREA: (many areas/attractions)
+ACTIVITY: Sight Seeing/Eating/Shopping
+
+DiverCity Tokyo Plaza
+HOURS: Shops (10:00 - 21:00) Restaurant: (11:00 - 23:00)
+Fee: Free
+
+DIRECTIONS:
+1. TRAIN (GOOGLE MAPS)
+FROM: Keio
+- walk to: "Tocho-Mae Station", 350m, TIME:5mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Roppongi/Daimon", at: "platform 1"
+- get off: "Shiodome Station", 9 stops, TIME:20mins
+- take the: "Yurikamome line", "dark baby blue", towards: "Toyosu"
+- get off: "Daiba Station", 5 stops, TIME:14mins
+- walk to: "ODAIBA OSHIMA", 210m, TIME:2mins
+- TRAIN FEE: 590YEN/5.20USD/244.38PHP
+
+FROM: Tokyo Tower
+- walk to: "Akabanebashi Station", 650m, TIME:11mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Roppongi/Ryogoku", at: "platform 1"
+- get off: "Shiodome Station", 2 stops, TIME:4mins
+- take the: "Yurikamome line", "dark baby blue", towards: "Toyosu"
+- get off: "Daiba Station", 5 stops, TIME:14mins
+- walk to: "ODAIBA OSHIMA", 210m, TIME:2mins
+- TRAIN FEE: 500YEN/4.40USD/206.78PHP
+
+FROM: ODAIBA OSHIMA TO: Keio
+- walk to: "Daiba Station", 210m, TIME:3mins
+- take the: "Yurikamome line", "dark baby blue", towards: "Shimbashi"
+- get off: "Shiodome Station", 5 stops, TIME:13mins
+- take the: "Oedo Line", "red violet", towards: "Hikarigaoka", at "platform 2"
+- get off: "Tocho-Mae Station", 9 stops, TIME:21mins
+- walk to: "Keio Plaza Hotel", 350m, TIME:5mins
+- TRAIN FEE: 590YEN/5.20USD/244.38PHP
+
+####################################################################################################
+Tsukiji Fish Market
+ACTIVITY: SIGHT SEEING (AUCTION)/EATING
+HOURS:
+- OUTER MARKET 5:00 - 14:00(2:00PM)
+- WHOLESALE AREA 9:00 - onwards
+- TUNA AUCTION 5:25 - 6:25 (120 visitors/day) make reservations
+FEE: Free
+
+DIRECTIONS:
+1. TRAIN (GOOGLE MAPS)
+FROM: keio plaza hotel
+- walk to: "Tocho-Mae Station", 350m, TIME:5mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Roppongi/Daimon", at: "platform 1"
+- get off: "Tsukijishijo Station", 10 stops, TIME:23mins
+- walk to: "sukiji Market", 500m, TIME:6mins
+- TRAIN FEE: 270YEN/2.38USD/111.85PHP
+
+FROM: Tokyo Tower
+- walk to: "Akabanebashi Station", 650m, TIME:9mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Roppongi/Ryogoku", at: "platform 1"
+- get off: "Tsukijishijo Station", 3 stops, TIME:7mins
+- walk to: "Tsukiji Fish Market", 500m, TIME:6mins
+- TRAIN FEE: 180YEN/1.59USD/74.72PHP
+
+FROM: ODAIBA OSHIMA
+- walk to: "Daiba Station", 210m, TIME:3mins
+- take the: "Yurikamome line", "dark baby blue", towards: "Shimbashi"
+- get of: "Shiodome Station", 5 stops, TIME:13mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Ryogoku/Kasuga", at: "platform 1"
+- get of: "Tsukijishijo Station", non-stop, TIME:2mins
+- walk to: "Tsukiji fish market", 500m, TIME:6mins
+- TRAIN FEE: 590YEN/5.20USD/244.38PHP
+
+FROM: Tsukiji Fish Market TO: Keio
+- walk to: "Tsukijishijo Station", 500m, TIME:7mins
+- take the: "Oedo Line", "red violet", towards: "Hikarigaoka", at: "platform 1"
+- get off: "Tocho-Mae Station", 10 stops, TIME:24mins
+- walk to: "Keio Plaza Hotel", 350m, TIME:4mins
+- TRAIN FEE: 270YEN/2.38USD/111.85PHP
+
+####################################################################################################
+Imperial Palace Area: (2 Areas/Attractions)
+ACTIVITY: SIGHT SEEING/RELAX/HISTORY
+Imeprial Palace: RESERVATION NEEDED
+Imperial Palace East Gardens:
+HOURS: 9:00 - 16:30(4:30PM) CLOSED: MONDAY and FRIDAY
+FEES: Free
+
+DIRECTIONS:
+1. TRAIN (GOOGLE MAPS)
+FROM: keio plaza hotel
+- walk to: "Tocho-Mae Station", 350m, TIME:5mins
+- take the: "Oedo Line", "red violet", towards: "Hikarigaoka"
+- get off: "Iidabashi Station", 6 stops, TIME:12mins
+- take the: "Tozai Line", "light blue", towards: "Tsudanuma" at: "platform 1"
+- get off: "Takebashi Station", 2 stops, TIME:3mins
+- walk to: "Imperial Palace", 900m, TIME:10mins
+- TRAIN FEE: 310YEN/2.73USD/128.30PHP
+
+FROM: Tsukiji Fish Market
+- walk to: "Tsukiji Station", 400m, TIME:5mins
+- take the: "Hibiya Line", "grey", towards: "Kita-Senju"
+- get off: "Kayabacho Station", 2 stops, TIME:3mins
+- take the: "Tozai Line", "light blue", towards: "Nakano"
+- get off: "Takebashi Station", 3 stops, TIME: 5 mins
+- walk to: "Imperial Palace", 900m, TIME:10mins
+- TRAIN FEE: 170YEN/1.50USD/70.49PHP
+
+FROM: Imperial Palace TO: Keio
+- walk to: "Takebashi Station", 900m, TIME:11mins
+- take the: "Tozai", "light blue", towards: "Mitaka"
+- get off: "Iidabashi Station", 2 stops, TIME:3mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae" at: "platform 1"
+- get off: "Tocho-Mae Station", 6 stops, TIME:14mins
+- walk to: "Keio Plaza Hotel", 350m, TIME:4mins
+- TRAIN FEE: 310YEN/2.73USD/128.30PHP
+
+####################################################################################################
+AKIHABARA: (many areas/attractions)
+Akihabara station
+ACTIVITY: SHOPPING/EATING
+HOURS: BUSINESS HOURS USUALLY OPENS (9:00 - 12:00)
+FEES: BRING LOTS OF MONEY
+
+DIRECTION:
+1. TRAIN (GOOGLE MAPS)
+FROM: keio plaza hotel
+- walk to: "Shinjuku Station", 750m, TIME:10mins
+- take the: "Chuo-Sobu Line(LOCAL)", "dirty yellow", towards: "Tsudanuma"
+- get off: "Akihabara Station", 9 stops, TIME:19mins
+- walk to: "Akihabara Station"
+- TRAIN FEE: 170YEN/1.50USD/70.49PHP
+
+FROM: Imperial Palace
+- walk to: "Takebashi Station", 900m, TIME:11mins
+- take the: "Tozai Line", "light blue", towards: "Mitaka"
+- get off: "Iidabashi Station", 2 stops, TIME:3mins
+- take the: "JR Chuo-Sobu Line(Local)", "dirty yellow", towards: "Tsudanuma"
+- get off: "Akihabara Station", 3 stops, TIME:7mins
+- walk to: "Akihabara Station"
+- TRAIN FEE: 310YEN/2.73USD/128.30PHP
+
+FROM: Akihabara TO: Keio
+- walk to: "Akihabara Station"
+- take the: "JR Chuo-Sobu Line(LOCAL)", "dirty yellow", towards: "Mitaka", at: "platform 5"
+- get off: "Shinjuku Station", 9 stops, TIME:19mins
+- walk to: "Keio Plaza Hotel", 750m, TIME:10mins
+- TRAIN FEE: 170YEN/1.50USD/70.49PHP
+
+####################################################################################################
+Tokyo Skytree:
+ACTIVITY: SIGHT SEEING/EATING/SHOPPING
+HOURS: 8:00 - 22:00
+FEE: first & second deck 3850YEN/33.83USD/1581.52PHP
+
+DIRECTION:
+1. TRAIN (GOOGLE MAPS)
+FROM: Keio Plaza
+- walk to: "Tocho-Mae Station", 350m, TIME:5mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Roppingi/Daimon", at: "platform 1"
+- get off: "Aoyamaicchome Station", 4 stops, TIME:9mins
+- take the: "Hanzomon Line", "purple", towards: "Kuki", at: "platform 4"
+- get off: "Oshiage Station", 11 stops, TIME:26mins
+- walk to: "Tokyo Skytree", 300m, TIME:3mins
+- TRAIN FEE: 350YEN/3.08USD/143.99PHP
+
+FROM: Akihabara Station
+- take the: "JR Chuo-Sobu Line (local)", "dirty yellow", towards: "Tsudanuma", at: "platform 6"
+- get off: "Kinshicho Station", 3 stops, TIME:6mins
+- take the: "Hanzomon Line", "purple", towards: "Kuki" at: "platform 2"
+- get off: "Oshiage Station", non-stop, TIME:3mins
+- walk to: "Tokyo Skytree", 300m, TIME:3mins
+- TRAIN FEE: 330YEN/2.90USD/135.57PHP
+
+FROM: Skytree TO:Keio
+- walk to: "Oshiage Station", 300m, TIME:3mins
+- take the: "Hanzomon Line", "purple", towards: "Nagatsuta"
+- get off: "Aoyamaicchome Station", 11 stops, TIME:26mins
+- take the: "Oedo Line", "red violet", towards: "Hikarigaoka", at: "platform 2"
+- get off: "Tocho-Mae Station", 4 stops, TIME:9mins
+- walk to: "Keio Plaza Hotel", 350m, TIME:5mins
+- TRAIN FEE: 350YEN/3.08USD/143.99PHP
+
+
+####################################################################################################
+ASAKUSA: (many areas/attractions)
+ACTIVITY: SIGHT SEEING(CULTURE)/EATING/SHOPPING
+Kaminarimon (Kaminari Gate)
+HOURS: Always open 
+FEES: Free
+
+Sensoji Temple
+HOURS: MAIN HALL: 6:30-17:00(5:00PM), TEMPLE GROUNDS: Always Open
+FEES: Free
+
+Asakusa Shrine
+HOURS: Always Open
+FEES: Free
+
+Nakamise Shopping Street
+HOURS: 9:00 - 19:00(7:00PM)
+
+DIRECTION:
+1. TRAIN (GOOGLE MAPS)
+FROM: keio plaza hotel
+- walk to: "Tocho-Mae Station", 350m, TIME:5mins
+- take the: "Oedo Line", "red violet", towards: "Hikarigaoka"
+- get off: "Shin-Okamachi Station", 10 stops, TIME:21mins
+- take the: "Tsukuba Express", "red", towards: "Tsukuba"
+- get off: "Asakusa Station", non-stop, TIME:2mins
+- TRAIN FEE: 440YEN/3.88USD/182.34PHP
+
+FROM: Akihabara Station
+- walk to: "Akihabara Station", connecting to: "Akihabara Station Tsukuba Express", "red"
+- take the: "Tsukuba Express", "red", towards: "Tsukuba", at: "platform 1, 2"
+- get off: "Asakusa Station", 2 stops, TIME:5mins
+- walk to: "Asakusa Shrine", 600m, TIME:7mins
+- TRAIN FEE: 210YEN/1.85USD/86.94PHP
+
+FROM: Tokyo Skytree
+- walk to: "Tokyo Skytree Station", 240m, TIME:3mins
+- take the: "Ryomo", "red" towards: "Asakusa"
+- get off: "Asakusa Station", non-stop, TIME:3mins
+- walk to: "Asakusa Shrine", 450m, TIME:5mins
+- TRAIN FEE: 150YEN/1.32USD/61.71PHP
+
+FROM: Asakusa Shrine TO: keio
+- walk to: "Asakusa Station", 600m, TIME:8mins
+- take the: "Tsukuba Express", "red", towards: "Akihabara"
+- get off: "Shin-Okachimachi Station", non-stop, TIME:2mins
+- take the: "Oedo Line", "red violet", towards: "Tocho-Mae via Iidabashi" at: "platform 1"
+- get off: "Tocho-Mae Station", 10 stops, TIME:22mins
+- walk to: "Keio Plaza Hotel", 350m, TIME:4mins
+- TRAIN FEE: 440YEN/3.88USD/182.34PHP
